@@ -1,4 +1,6 @@
 # MessageQueue
+
+[![Join the chat at https://gitter.im/bruno222/MessageQueue](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bruno222/MessageQueue?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 MessageQueue is a simple multi-thread driver to call APIs, getting the data from MySQL table.
 
 Features
